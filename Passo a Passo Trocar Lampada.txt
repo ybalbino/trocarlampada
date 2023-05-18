@@ -1,0 +1,9 @@
+Como trocar Lampada.
+
+1 Comprar uma lampada nova 
+2 Desligar o Padrão de Luz interno
+3 Pegar Escada 
+4 Tirar a lampada queida
+5 colocar a lampada nova
+6 Ligar o padrao interno
+7 testar
